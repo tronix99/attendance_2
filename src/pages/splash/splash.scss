@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,700');
+
+ion-content {
+    background-color: #EFEFEF !important;
+    font-family:'Raleway';
+}
+
+.sslide_1{
+      h2{
+        font-size: 2.5em;
+      }
+      .up{
+        position:absolute;
+        bottom: 10px !important;
+        width:100%;
+        background: none !important;
+        text-align:center;
+        font-size: 1.8em;
+        cursor:pointer;
+        z-index:5;
+      }
+  }
+.sslide_2{
+    h2{
+      font-size: 2.5em;
+    }
+}
